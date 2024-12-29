@@ -4,11 +4,11 @@
   "main": "server.js",
   "scripts": {
     "type": "module",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
@@ -16,5 +16,15 @@
     "express": "^4.21.2",
     "mongoose": "^8.9.2",
     "validator": "^13.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhalj/server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elhalj/server/issues"
+  },
+  "homepage": "https://github.com/elhalj/server#readme",
+  "description": ""
 }
