@@ -1,0 +1,3 @@
+[submodule "fresh-fashon"]
+	path = fresh-fashon
+	url = https://github.com/elhalj/fresh-fashon.git
